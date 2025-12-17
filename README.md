@@ -82,7 +82,7 @@ php artisan migrate --seed
 ### Seeder Default User
 
 ```
-Email    : admin@test.com
+Email    : zein@gmail.com
 Password : password123
 ```
 
