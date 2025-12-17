@@ -180,11 +180,3 @@ laravel_auth_api.postman_collection.json
 
 Nama: **Zein Habsin Aziz**  
 Role: Laravel Programmer (Middle) di PT Sakti Kinerja Kolaborasindo
-
----
-
-## 📌 Notes
-
-- Gunakan Postman Collection untuk testing API
-- Pastikan route prefix menggunakan `/api`
-- Jalankan `php artisan route:list` untuk verifikasi
