@@ -165,6 +165,17 @@ Response:
 
 ---
 
+## 📮 Postman Collection
+
+Project ini dilengkapi dengan **Postman Collection** untuk memudahkan proses testing API.
+
+**File:**  
+```
+laravel_auth_api.postman_collection.json
+```
+
+---
+
 ## 👤 Author
 
 Nama: **Zein Habsin Aziz**  
